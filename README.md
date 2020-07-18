@@ -1,7 +1,7 @@
 <h1>APRENDI HOJE!!!   :smiley_cat:</h1>
 
 <p>
-<h3>Aprendendo uma nova tecnologia, dessa vez foi a vez do <a href="https://reactjs.org/">ReacJS</a> desenvolvendo um calculadora usando os ferramentas dessa maravilhosa biblioteca JavaScritp 
+<h3>Aprendendo uma nova tecnologia, dessa vez foi a vez do <a href="https://reactjs.org/">ReacJS</a> desenvolvendo um calculadora usando as ferramentas dessa maravilhosa biblioteca JavaScritp 
 :octocat:  :books: </h3>
 </p>
 
