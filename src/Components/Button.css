@@ -1,0 +1,42 @@
+/*usando variaveis em css*/
+
+:root {
+    --bg-bution: #a8b3b9be;
+    --border-button: solid 1px #888888
+}
+
+.button {
+    font-size: 1.4em;
+    background-color: var(--bg-bution);
+    border: none;
+    border-right: var(--border-button);
+    border-bottom: var(--border-button);
+    outline: none;
+    cursor: pointer;
+    transition: 2ms;
+}
+
+.button:hover {
+    background-color: rgb(97, 94, 94);
+    color: white
+}
+
+.button:active {
+    background-color: rgb(45, 49, 53);
+}
+
+.button.double {
+    grid-column: span 2;
+}
+
+.button.triple {
+    grid-column: span 3;
+}
+
+.button.operation {
+    background-color: #fa8231;
+}
+
+.button.button.operation:active {
+    background-color: #fcbb90;
+}
